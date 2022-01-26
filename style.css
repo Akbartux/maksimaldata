@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+}
+
+#tentang,
+#layanan,
+#kontak {
+  background-color: #00a2e9;
+}
+
+.navbar {
+  background-color: #00a2e9;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #00a2e9;
+}
